@@ -2,7 +2,7 @@
 ## Group AST-ronauts(Jimmy, Paul, Gerald, Patrick, Daniel, Albert)
 
 
-Exercises using flex (lex) to build simple lexical analyzers in C.
+Examples of using flex (lex) to build simple lexical analyzers in C.
 
 ### Example 1
 
