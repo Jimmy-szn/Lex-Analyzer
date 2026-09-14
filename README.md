@@ -1,14 +1,16 @@
 ## Lex-Analyzer
+## Group AST-ronauts(Jimmy, Paul, Gerald, Patrick, Daniel, Albert)
+
 
 Exercises using flex (lex) to build simple lexical analyzers in C.
 
 ### Example 1
 
-_
+`scanner1.l` is a basic lexical analyzer. It recognizes integers and identifiers, ignores whitespace, and prints any other character as `UNKNOWN`.
 
 ### Example 2
 
-_
+`scanner2.l` is a slightly more complete lexical analyzer. It recognizes the keywords `int`, `if`, `else`, and `return`, along with integers, identifiers, assignment, and arithmetic operators. It ignores whitespace and prints any other character as `UNKNOWN`.
 
 ### Example 3
 
@@ -52,4 +54,4 @@ Special characters  : 7
 
 ---
 
-Work done by group ***Ast-ronauts***.
+Work done by group ***AST-ronauts***.
